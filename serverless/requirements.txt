@@ -5,6 +5,5 @@ accelerate>=0.30.0
 safetensors>=0.4.3
 Pillow>=10.3.0
 opencv-python>=4.9.0
-xformers==0.0.27.post2
 runpod>=1.6.0
 requests>=2.31.0
